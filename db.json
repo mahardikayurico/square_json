@@ -1,69 +1,87 @@
 {
-  "product": [
+  "customer": [
+    {
+      "id": 1,
+      "name": "Odis Rhinehart",
+      "level": "Warga",
+      "menu": "Chicken & Ribs Combo",
+      "total": "IDR 194,000"
+    },
+    {
+      "id": 2,
+      "name": "Kris Roher",
+      "level": "Warga",
+      "menu": "Surf & Turf Gift Basket",
+      "total": "IDR 94,000"
+    },
     {
       "id": 3,
-      "image": "p1.png",
-      "name": "Vanilla",
-      "price": "34.000"
-    },
+      "name": "Serenity Fisher",
+      "level": "Juragan",
+      "menu": "Fried Chicken Dinne",
+      "total": "IDR 52,000"
+    }
     {
       "id": 4,
-      "image": "p1.png",
-      "name": "Coffee latte",
-      "price": "34.000"
-    },
-    {
-      "id": 5,
-      "image": "p1.png",
-      "name": "Coffee latte",
-      "price": "34.000"
-    },
-    {
-      "id": 6,
-      "image": "p1.png",
-      "name": "Cappucino",
-      "price": "34.000"
-    },
-    {
-      "id": 8,
-      "image": "p1.png",
-      "name": "Coffee latte",
-      "price": "34.000"
-    },
-    {
-      "name": "kopi susu",
-      "price": "IDR 20.000",
-      "id": 9
-    },
-    {
-      "name": "Good Day",
-      "price": "3000",
-      "id": 11
-    },
-    {
-      "name": "kapal api",
-      "price": "20.000",
-      "id": 12
-    },
-    {
-      "name": "susu murni nasional",
-      "price": "21.000",
-      "id": 13
-    },
-    {
-      "name": "susu murni nasional",
-      "price": " 20.000",
-      "id": 14
-    },
-    {
-      "name": "cappucino",
-      "price": "20.000",
-      "id": 15
-    },
-    {
-      "name": "Teh Tarik",
-      "price": "21.000",
-      "id": 16
+      "name": "Brooklyn Warren",
+      "level": "Juragan",
+      "menu": "Dark & Stormy",
+      "total": "IDR 87,000"
     }
-  ]
+{
+      "id": 5,
+      "name": "Franco Delort",
+      "level": "Sultan",
+      "menu": "Chicken & Ribs Combo",
+      "total": "IDR 976,000"
+    }
+{
+      "id": 6,
+      "name": "Saul Geoghegan",
+      "level": "Juragan",
+      "menu": "Surf & Turf Gift Basket",
+      "total": "IDR 234,000"
+    }
+{
+      "id": 7,
+      "name": "Alfredo Vetrovs",
+      "level": "Juragan",
+      "menu": "Fried Chicken Dinne",
+      "total": "IDR 124,000"
+    }{
+      "id": 8,
+      "name": "Cristofer Vetrovs",
+      "level": "Juragan",
+      "menu": "Fried Chicken Dinne",
+      "total": "IDR 235,000"
+    }{
+      "id": 9,
+      "name": "Calvin Steward",
+      "level": "Konglomerat",
+      "menu": "Chicken & Ribs Combo",
+      "total": "IDR 234,000"
+    }
+{
+      "id": 10,
+      "name": "Calvin Steward",
+      "level": "Konglomerat",
+      "menu": "Surf & Turf Gift Basket",
+      "total": "IDR 245,000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
