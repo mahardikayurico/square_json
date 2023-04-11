@@ -20,48 +20,50 @@
       "level": "Juragan",
       "menu": "Fried Chicken Dinne",
       "total": "IDR 52,000"
-    }
+    },
     {
       "id": 4,
       "name": "Brooklyn Warren",
       "level": "Juragan",
       "menu": "Dark & Stormy",
       "total": "IDR 87,000"
-    }
-{
+    },
+    {
       "id": 5,
       "name": "Franco Delort",
       "level": "Sultan",
       "menu": "Chicken & Ribs Combo",
       "total": "IDR 976,000"
-    }
-{
+    },
+    {
       "id": 6,
       "name": "Saul Geoghegan",
       "level": "Juragan",
       "menu": "Surf & Turf Gift Basket",
       "total": "IDR 234,000"
-    }
-{
+    },
+    {
       "id": 7,
       "name": "Alfredo Vetrovs",
       "level": "Juragan",
       "menu": "Fried Chicken Dinne",
       "total": "IDR 124,000"
-    }{
+    },
+    {
       "id": 8,
       "name": "Cristofer Vetrovs",
       "level": "Juragan",
       "menu": "Fried Chicken Dinne",
       "total": "IDR 235,000"
-    }{
+    },
+    {
       "id": 9,
       "name": "Calvin Steward",
       "level": "Konglomerat",
       "menu": "Chicken & Ribs Combo",
       "total": "IDR 234,000"
-    }
-{
+    },
+    {
       "id": 10,
       "name": "Calvin Steward",
       "level": "Konglomerat",
